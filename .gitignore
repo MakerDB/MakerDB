@@ -1,3 +1,7 @@
+# IDEA Specific Ignore Rules
 *.iml
 /.idea
 /target
+
+# Mac OSX Specific Ignore Rules
+.DS_STORE
