@@ -1,1 +1,1 @@
-script : mvn clean install
+script : mvn clean package
