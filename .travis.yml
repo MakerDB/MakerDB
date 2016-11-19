@@ -1,1 +1,1 @@
-script : bundle exec mvn clean install
+script : mvn clean install
