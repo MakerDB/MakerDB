@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MakerDB/MakerDB.svg?branch=master)](https://travis-ci.org/MakerDB/MakerDB)
+
 # Maker DB
 
 MakerDB is **THE** inventory management software for electronic parts.
